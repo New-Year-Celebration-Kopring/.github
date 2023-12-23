@@ -1,12 +1,18 @@
-## Hi there 👋
+# 코틀린 스프링 스터디
+코틀린 스프링을 공부하는 저장소입니다.
 
-<!--
+## 목표
+방학동안 기본적인 코틀린 + 스프링으로 백엔드 로직 구축하기
 
-**Here are some ideas to get you started:**
+## 공부 방법
+- 공식문서, 블로그 글 들을 통해 기본적인 스프링 개념을 공부합니다.
+- 다음 스터디 날짜까지 해당 진도만큼 공부하고 코드 작성 후 리뷰를 진행합니다.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 기간
+| 날짜 | 제목                                  | 으나's 개념 | 훈동's 개념 |
+| ---- | ------------------------------------- | ---- | ---- |
+| 12/27 | 기본 프로젝트 설정, Firebase 설정      |  | |
+| 1/3 | 소셜 SNS 로그인, 이메일 로그인 구현       |  | |
+| 1/10 | CRUD 구현 & Firebase DB 연동           |  | |
+| 1/24 | <b>미정</b>                            |  | |
+| 1/31 | <b>미정</b>                            |  | |
