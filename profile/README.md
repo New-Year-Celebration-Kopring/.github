@@ -16,3 +16,6 @@
 | 1/10 | CRUD 구현 & Firebase DB 연동           |  | |
 | 1/24 | <b>미정</b>                            |  | |
 | 1/31 | <b>미정</b>                            |  | |
+
+## 참고 자료
+[기본 자료](https://velog.io/@s2moon98/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%8B%9C%EC%9E%91%ED%95%B4%EB%B3%B4%EA%B8%B0-%EB%B3%80%EC%88%98-%EC%84%A0%EC%96%B8%EB%B6%80%ED%84%B0-%ED%81%B4%EB%9E%98%EC%8A%A4%EA%B9%8C%EC%A7%80)
